@@ -4,3 +4,5 @@ var b = 100;
 console.log(a);
 
 console.log("Hello World!");
+
+console.log("We are Group 1!")
