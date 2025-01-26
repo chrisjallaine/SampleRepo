@@ -2,3 +2,5 @@ var a = 50;
 var b = 100;
 
 console.log(a);
+
+console.log("Hello World!");
